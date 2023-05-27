@@ -1,2 +1,2 @@
-# valentinavoicets3
-Valentina Voice (Microsoft) to TeamSpeak 3
+# VALENTINA VOICE (MICROSOFT) - TEAMSPEAK3 [es-UY/AR) SOUNDPACK
+Valentina Microsoft Voice (Uruguay/Argentina Spanish Accent) for all voice messages in TeamSpeak3.
